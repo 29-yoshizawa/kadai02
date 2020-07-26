@@ -15,7 +15,7 @@ echo $total;
 echo "\n";
 
 $fruits = array("apple", "orange", "lemon", "blueberry", "melon");
-foreach($fruits as $fruits){
+foreach($fruit as $fruits){
 echo "ひとつは" . $fruits;
 echo "\n";
 }
